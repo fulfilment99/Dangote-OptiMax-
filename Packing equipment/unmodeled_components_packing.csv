@@ -1,0 +1,4 @@
+equipment,W_severity,status,note
+Weighing System / Load Cell (metrology drift),0.55,No trained model -- severity-ranked only,"Wear/calibration failure mode, not vibration-bearing-detectable"
+Spout Seal / Cone Wear,0.45,No trained model -- severity-ranked only,"Wear/calibration failure mode, not vibration-bearing-detectable"
+Bag Applicator Misfeed Mechanism,0.3,No trained model -- severity-ranked only,"Wear/calibration failure mode, not vibration-bearing-detectable"

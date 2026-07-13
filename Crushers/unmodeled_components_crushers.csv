@@ -1,0 +1,4 @@
+equipment,W_severity,status,note
+Jaw Plate / Blow Bar / Hammer Wear,0.7,No trained model -- severity-ranked only,"Wear/structural failure mode, not vibration-bearing-detectable"
+Toggle Plate / Toggle Seat,0.6,No trained model -- severity-ranked only,"Wear/structural failure mode, not vibration-bearing-detectable"
+CSS (Closed-Side Setting) Mechanism,0.4,No trained model -- severity-ranked only,"Wear/structural failure mode, not vibration-bearing-detectable"

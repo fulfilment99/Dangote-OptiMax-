@@ -1,0 +1,3 @@
+equipment,W_severity,status,note
+Mill Shell Liners,0.55,No trained model -- severity-ranked only,No matching public sensor dataset found for this failure mode
+Grinding Table / Rollers (VRM),0.8,No trained model -- severity-ranked only,No matching public sensor dataset found for this failure mode

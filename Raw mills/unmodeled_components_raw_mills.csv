@@ -1,0 +1,4 @@
+equipment,W_severity,status,note
+Grinding Table / Rollers (VRM),1.0,No trained model -- severity-ranked only,No matching public sensor dataset found for this failure mode
+Hydraulic Roller-Loading System,0.7,No trained model -- severity-ranked only,No matching public sensor dataset found for this failure mode
+Nozzle Ring / Dam Ring Wear,0.4,No trained model -- severity-ranked only,No matching public sensor dataset found for this failure mode
